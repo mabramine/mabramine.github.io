@@ -1,0 +1,1 @@
+Echart Gauge custom widget
