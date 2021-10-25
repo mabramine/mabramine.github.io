@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-gauge",
-      "url": "https://www.ralphive.com/sac-custom-widgets/echart-gauge/main.js",
+      "url": "https://mabramine.github.io/EChartsGauge/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
